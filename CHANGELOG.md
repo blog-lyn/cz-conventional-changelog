@@ -1,5 +1,5 @@
 <a name="1.0.4"></a>
-## [1.0.4](https://github.com/blog-lyn/cz-conventional-changelog/compare/1.0.3...v1.0.4) (2017-06-03)
+## [1.0.4](https://github.com/blog-lyn/cz-conventional-changelog/compare/1.0.3...1.0.4) (2017-06-03)
 
 
 ### Bug Fixes
