@@ -17,7 +17,6 @@ var filter = function(array) {
 module.exports = function (options) {
   
   var types = options.types;
-
   var length = longest(Object.keys(types)).length + 1;
   // var choices = map(types, function (type, key) {
   //   return {
@@ -43,7 +42,6 @@ module.exports = function (options) {
   { name: 'chore:    其它类型提交,无关src目录以及test目录(Other changes that don\'t modify src or test files)',
     value: 'chore' },
   { name: 'revert:   代码回退提交(Reverts a previous commit)', value: 'revert' }];
-  console.log(choices)
   return {
     // When a user runs `git cz`, prompter will
     // be executed. We pass you cz, which currently
