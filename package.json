@@ -1,11 +1,13 @@
 {
   "name": "lyn-conventional-changelog",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Commitizen adapter following the conventional-changelog format.",
   "main": "index.js",
   "scripts": {
     "commit": "git-cz",
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
+    "addLog": "conventional-changelog -p angular -i CHANGELOG.md -s"
   },
   "homepage": "https://github.com/blog-lyn/cz-conventional-changelog",
   "repository": {
