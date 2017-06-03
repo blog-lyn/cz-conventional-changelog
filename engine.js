@@ -123,7 +123,7 @@ module.exports = function (options) {
         var footer = filter([ breaking, issues ]).join('\n\n');
 
         commit(head + '\n\n' + body + '\n\n' + footer);
-        console.log('运行CI后,可以生成changelog和修改package版本号,最后push代码')
+        console.log('\n 运行CI后,再生成changelog和修改package版本号,最后push代码 \n')
       });
     }
   };
