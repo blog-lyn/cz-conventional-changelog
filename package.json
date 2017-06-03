@@ -1,13 +1,39 @@
 {
-  "name": "cz-conventional-changelog",
+  "name": "lyn-conventional-changelog",
   "version": "1.0.0",
   "description": "Commitizen adapter following the conventional-changelog format.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "commit": "git-cz",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
-  "author": "Jim Cummins <jimthedev@gmail.com>",
+  "homepage": "https://github.com/blog-lyn/cz-conventional-changelog",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blog-lyn/cz-conventional-changelog"
+  },
+  "author": "lyn <a@s76.org>",
   "license": "MIT",
   "dependencies": {
+    "conventional-commit-types": "^2.0.0",
+    "lodash.map": "^4.5.1",
+    "longest": "^1.0.1",
+    "pad-right": "^0.2.2",
+    "right-pad": "^1.0.1",
+    "word-wrap": "^1.0.3"
+  },
+  "devDependencies": {
+    "commitizen": "2.9.6",
+    "lyn-conventional-changelog": "^1.0.0",
+    "semantic-release": "^6.3.2"
+  },
+  "czConfig": {
+    "path": "./"
+  },
+  "private": false,
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/lyn-conventional-changelog"
+    }
   }
 }
