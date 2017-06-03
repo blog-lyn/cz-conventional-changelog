@@ -74,11 +74,11 @@ module.exports = function (options) {
         }, {
           type: 'input',
           name: 'scope',
-          message: '请输入本次commit影响的内容(选填): (Denote the scope of this change (JSX, Reducer, Service, etc.)\n'
+          message: '请输入本次commit影响的内容(名词,必填): (Denote the scope of this change (JSX, Reducer, Service, etc.)\n'
         }, {
           type: 'input',
           name: 'subject',
-          message: '请概括本次commit的内容(必填): (Write a short, imperative tense description of the change)\n'
+          message: '请概括本次commit的内容(动词开头,必填): (Write a short, imperative tense description of the change)\n'
         }, {
           type: 'input',
           name: 'body',
