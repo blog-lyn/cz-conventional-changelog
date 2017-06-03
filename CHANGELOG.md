@@ -7,6 +7,16 @@
 * **console content:** delete console content ([216efb6](https://github.com/blog-lyn/cz-conventional-changelog/commit/216efb6)), closes [#22](https://github.com/blog-lyn/cz-conventional-changelog/issues/22)
 
 
+### Documentation
+
+* **changelog:** update changelog ([e3e24a2](https://github.com/blog-lyn/cz-conventional-changelog/commit/e3e24a2)), closes [#11](https://github.com/blog-lyn/cz-conventional-changelog/issues/11)
+
+
+### BREAKING CHANGES
+
+* **changelog:** in order to show
+
+
 
 <a name="1.0.4"></a>
 ## [1.0.4](https://github.com/blog-lyn/cz-conventional-changelog/compare/1.0.3...1.0.4) (2017-06-03)
