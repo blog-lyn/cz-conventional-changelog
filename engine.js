@@ -58,7 +58,7 @@ module.exports = function (options) {
     // template and will keep empty lines.
     prompter: function(cz, commit) {
       console.log('\nLine 1 will be cropped at 100 characters. All other lines will be wrapped after 100 characters.\n');
-      console.log('\n注意! 只有:新功能,Bug修正和填写的重大变化才会出现在changelog.md文件中\n');
+      // console.log('\n注意! 只有:新功能,Bug修正和填写的重大变化才会出现在changelog.md文件中\n');
 
       // Let's ask some questions of the user
       // so that we can populate our commit
@@ -82,7 +82,7 @@ module.exports = function (options) {
           name: 'subject',
           message: '请概括本次commit的内容(必填): (Write a short, imperative tense description of the change)\n'
         }, {
-          type: 'editor',
+          type: 'input',
           name: 'body',
           message: '请输入本次commit的详细描述(选填): (Provide a longer description of the change)\n'
         }, {

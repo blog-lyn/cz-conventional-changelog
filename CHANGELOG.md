@@ -1,3 +1,13 @@
+<a name="1.0.4"></a>
+## [1.0.4](https://github.com/blog-lyn/cz-conventional-changelog/compare/1.0.3...v1.0.4) (2017-06-03)
+
+
+### Bug Fixes
+
+* **type tips:** update type tips ([7bf5fc4](https://github.com/blog-lyn/cz-conventional-changelog/commit/7bf5fc4)), closes [#1](https://github.com/blog-lyn/cz-conventional-changelog/issues/1)
+
+
+
 <a name="1.0.3"></a>
 ## [1.0.3](https://github.com/blog-lyn/cz-conventional-changelog/compare/1.0.2...1.0.3) (2017-06-03)
 
