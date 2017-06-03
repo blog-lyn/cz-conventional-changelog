@@ -8,6 +8,7 @@
 * **console.log:** delete ([7cdf8d7](https://github.com/blog-lyn/cz-conventional-changelog/commit/7cdf8d7))
 * **engine.js:** update console ([6de86ad](https://github.com/blog-lyn/cz-conventional-changelog/commit/6de86ad))
 * **engine.js:** 修改console内容 ([58612b4](https://github.com/blog-lyn/cz-conventional-changelog/commit/58612b4))
+* **文档:** 更新文档 ([2428eec](https://github.com/blog-lyn/cz-conventional-changelog/commit/2428eec))
 
 
 ### Documentation
