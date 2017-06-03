@@ -5,6 +5,7 @@
 ### Bug Fixes
 
 * **console content:** delete console content ([216efb6](https://github.com/blog-lyn/cz-conventional-changelog/commit/216efb6)), closes [#22](https://github.com/blog-lyn/cz-conventional-changelog/issues/22)
+* **engine.js:** update console ([6de86ad](https://github.com/blog-lyn/cz-conventional-changelog/commit/6de86ad))
 
 
 ### Documentation
