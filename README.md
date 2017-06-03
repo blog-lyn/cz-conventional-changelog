@@ -1,8 +1,12 @@
 # cz-conventional-changelog
 
-Status:
-[![npm version](https://img.shields.io/npm/v/cz-conventional-changelog.svg?style=flat-square)](https://www.npmjs.org/package/cz-conventional-changelog)
-[![npm downloads](https://img.shields.io/npm/dm/cz-conventional-changelog.svg?style=flat-square)](http://npm-stat.com/charts.html?package=cz-conventional-changelog&from=2015-08-01)
-[![Build Status](https://img.shields.io/travis/commitizen/cz-conventional-changelog.svg?style=flat-square)](https://travis-ci.org/commitizen/cz-conventional-changelog)
+# Recommended workflow
 
-Part of the [commitizen](https://github.com/commitizen/cz-cli) family. Prompts for [conventional changelog](https://github.com/stevemao/conventional-changelog-angular/blob/master/index.js) standard.
+1. Make changes(修改)
+2. Commit those changes(提交)
+3. Make sure Travis turns green(运行ci)
+4. Bump version in package.json(提高版本号)
+5. conventionalChangelog(生成changelog)
+6. Commit package.json and CHANGELOG.md files(提交package.json和changelog)
+7. Tag(打tag)
+8. Push(push 代码)
