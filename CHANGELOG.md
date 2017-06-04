@@ -1,9 +1,10 @@
-<a name="1.0.8"></a>
-## [1.0.8](https://github.com/blog-lyn/cz-conventional-changelog/compare/1.0.7...v1.0.8) (2017-06-04)
+<a name="1.0.9"></a>
+## [1.0.9](https://github.com/blog-lyn/cz-conventional-changelog/compare/1.0.7...1.0.9) (2017-06-04)
 
 
 ### build
 
+* **package:** update verison ([f81968e](https://github.com/blog-lyn/cz-conventional-changelog/commit/f81968e))
 * **package.json:** update version ([9473236](https://github.com/blog-lyn/cz-conventional-changelog/commit/9473236))
 
 
@@ -19,6 +20,7 @@
 
 ### BREAKING CHANGES
 
+* **package:** update version
 * **index.js:** change index.js
 * **package.json:** update version
 * **docs:** update
