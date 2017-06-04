@@ -1,5 +1,15 @@
-<a name="1.0.6"></a>
-## [1.0.6](https://github.com/blog-lyn/cz-conventional-changelog/compare/1.0.7...v1.0.6) (2017-06-04)
+<a name="1.0.8"></a>
+## [1.0.8](https://github.com/blog-lyn/cz-conventional-changelog/compare/1.0.7...v1.0.8) (2017-06-04)
+
+
+### Documentation
+
+* **docs:** update ([0bd2909](https://github.com/blog-lyn/cz-conventional-changelog/commit/0bd2909))
+
+
+### BREAKING CHANGES
+
+* **docs:** update
 
 
 
