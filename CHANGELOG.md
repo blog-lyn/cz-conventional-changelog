@@ -2,6 +2,11 @@
 ## [1.0.8](https://github.com/blog-lyn/cz-conventional-changelog/compare/1.0.7...v1.0.8) (2017-06-04)
 
 
+### build
+
+* **package.json:** update version ([9473236](https://github.com/blog-lyn/cz-conventional-changelog/commit/9473236))
+
+
 ### Documentation
 
 * **docs:** update ([0bd2909](https://github.com/blog-lyn/cz-conventional-changelog/commit/0bd2909))
@@ -9,6 +14,7 @@
 
 ### BREAKING CHANGES
 
+* **package.json:** update version
 * **docs:** update
 
 
