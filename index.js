@@ -1,5 +1,4 @@
 "format cjs";
-
 var engine = require('./engine');
 var conventionalCommitTypes = require('conventional-commit-types');
 
