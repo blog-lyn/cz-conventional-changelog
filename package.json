@@ -1,6 +1,6 @@
 {
   "name": "lyn-conventional-changelog",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Commitizen adapter following the conventional-changelog format.",
   "main": "index.js",
   "scripts": {
