@@ -12,8 +12,14 @@
 * **docs:** update ([0bd2909](https://github.com/blog-lyn/cz-conventional-changelog/commit/0bd2909))
 
 
+### Styles
+
+* **index.js:** change formart ([1c13cc4](https://github.com/blog-lyn/cz-conventional-changelog/commit/1c13cc4))
+
+
 ### BREAKING CHANGES
 
+* **index.js:** change index.js
 * **package.json:** update version
 * **docs:** update
 
