@@ -1,6 +1,15 @@
-# cz-conventional-changelog
 
 # Recommended workflow
+
+
+```
+// 先安装
+npm install commitizen -g
+
+// 在project目录初始化
+commitizen init lyn-conventional-changelog --save-dev --save-exact
+
+```
 
 1. Make changes(修改)
 2. Commit those changes(提交)
